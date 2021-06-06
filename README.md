@@ -1,7 +1,7 @@
 # Cyberpolargraph
 Code repository for my vertical plotter : 
 
-![alt text](https://github.com/MrCybernetic/Cyberpolargraph\img\cyberpolargraph.jpg "Cyberpolargraph")
+![alt text](https://raw.githubusercontent.com/MrCybernetic/Cyberpolargraph/main/img/cyberpolargraph.jpg "Cyberpolargraph")
 
 I fed him gCode via SD card.
 
@@ -12,4 +12,4 @@ I fed him gCode via SD card.
 ## CMY circles 
  ->-> [Here](https://github.com/MrCybernetic/Cyberpolargraph\processing\circleCMY) <-<-
 
-![alt text](https://github.com/MrCybernetic/Cyberpolargraph\img\monaPlotted.jpg "Mona Lisa after being cyberCMYed")
+![alt text](https://raw.githubusercontent.com/MrCybernetic/Cyberpolargraph/main/img/MonaCMYed.png "Mona Lisa before being cyberCMYed") ![alt text](https://raw.githubusercontent.com/MrCybernetic/Cyberpolargraph/main/img/monaPlotted.jpg "Mona Lisa after being cyberCMYed")
