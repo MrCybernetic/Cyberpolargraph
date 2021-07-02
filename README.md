@@ -13,3 +13,18 @@ I fed him gCode via SD card.
  ->-> [Here](https://github.com/MrCybernetic/Cyberpolargraph\processing\circleCMY) <-<-
 
 ![alt text](https://raw.githubusercontent.com/MrCybernetic/Cyberpolargraph/main/img/MonaCMYed.png "Mona Lisa before being cyberCMYed") ![alt text](https://raw.githubusercontent.com/MrCybernetic/Cyberpolargraph/main/img/monaPlotted.jpg "Mona Lisa after being cyberCMYed")
+
+## Light Circles  
+ ->-> [Here](https://github.com/MrCybernetic/Cyberpolargraph\processing\generativeCircleLight) <-<-
+
+![alt text](https://raw.githubusercontent.com/MrCybernetic/Cyberpolargraph/main/img/circlesLight.jpg "circlesLight.jpg") 
+
+## Bricks
+ ->-> [Here](https://github.com/MrCybernetic/Cyberpolargraph\processing\brick) <-<-
+
+![alt text](https://raw.githubusercontent.com/MrCybernetic/Cyberpolargraph/main/img/bricks.jpg "Bricks Lego")
+
+## Topography
+ ->-> [Here](https://github.com/MrCybernetic/Cyberpolargraph\processing\isometric) <-<-
+
+![alt text](https://raw.githubusercontent.com/MrCybernetic/Cyberpolargraph/main/img/iso.jpg "topology topography") 
